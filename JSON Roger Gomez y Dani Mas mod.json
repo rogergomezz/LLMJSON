@@ -1,44 +1,4 @@
-{
-    "nom": "RoyalHotels",
-    "correu": "royalhotels@royalhotels.es",
-    "propietaris": [
-        {
-            "nom": "Roger",
-            "llinatge": "Gomez",
-            "dataNaixement": "1999",
-            "lloc": "Palma de Mallorca"
-        },
-        {
-            "nom": "Dani",
-            "llinatge": "Mas",
-            "dataNaixement": "2000",
-            "lloc": "Palma de Mallorca"
-        }
-    ],
-    "agregadors": [
-        {
-            "nom": "quavago",
-            "idAgregador": 1,
-            "telContacte": "971092389",
-            "comissio": 5,
-            "correuContacte": "quavago@quavagohotels.es"
-        },
-        {
-            "nom": "llibrerei",
-            "idAgregador": 2,
-            "telContacte": "971089876",
-            "comissio": 10,
-            "correuContacte": "llibrerei@llibrereihotels.es"
-        },
-        {
-            "nom": "tothotel",
-            "idAgregador": 3,
-            "telContacte": "971345345",
-            "comissio": 20,
-            "correuContacte": "tothotel@tothotelhotels.es"
-        }
-    ],
-    "hotels": [
+[
         {
             "id": 0,
             "nom": "Maravilla",
@@ -1203,5 +1163,5 @@
             ]
         }
     ]
-}
+
 
