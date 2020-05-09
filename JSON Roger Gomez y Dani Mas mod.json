@@ -26,9 +26,7 @@
                     "serveiHabitacio": "false",
                     "Wi-Fi": "true",
                     "caixaForta": "false",
-                    "habitatge": [
-                        {
-                            "llits": {
+                    "llits": {
                                 "individual": 1,
                                 "doble": 0,
                                 "familiar": 0,
@@ -69,9 +67,7 @@
                                 "vistesMar": "0",
                                 "jacuzziExterior": "0",
                                 "barbacoa": "0"
-                            }
-                        }
-                    ],
+                            },
                     "preu": [
                         {
                             "id": 1,
