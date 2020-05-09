@@ -2,7 +2,7 @@
         {
             "id": 0,
             "nom": "Maravilla",
-            "estrelles": "4",
+            "estrelles": 4,
             "horaEntrada": "12:00",
             "horaSortida": "15:00",
             "mascotes": [
@@ -20,19 +20,19 @@
             ],
             "habitacions": [
                 {
-                    "idHabitacio": "1",
+                    "idHabitacio": 1,
                     "nom": "basica",
-                    "altaveus": "0",
-                    "serveiHabitacio": "0",
-                    "Wi-Fi": "gratis",
-                    "caixaForta": "0",
+                    "altaveus": "true",
+                    "serveiHabitacio": "false",
+                    "Wi-Fi": "true",
+                    "caixaForta": "false",
                     "habitatge": [
                         {
                             "llits": {
-                                "individual": "1",
-                                "doble": "0",
-                                "familiar": "0",
-                                "sofaCama": "0"
+                                "individual": 1,
+                                "doble": 0,
+                                "familiar": 0,
+                                "sofaCama": 0
                             },
                             "tv": {
                                 "tdt": "1",
