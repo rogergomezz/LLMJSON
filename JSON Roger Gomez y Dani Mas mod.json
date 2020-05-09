@@ -314,7 +314,7 @@
                         {
                             "llits": {
                                 "individual": "1",
-                                "doble": "0",
+                                "doble": "2",
                                 "familiar": "1",
                                 "sofaCama": "1"
                             },
@@ -461,10 +461,10 @@
                     "habitatge": [
                         {
                             "llits": {
-                                "individual": "1",
+                                "individual": "2",
                                 "doble": "0",
                                 "familiar": "0",
-                                "sofaCama": "1"
+                                "sofaCama": "0"
                             },
                             "tv": {
                                 "tdt": "1",
@@ -583,8 +583,8 @@
                     "habitatge": [
                         {
                             "llits": {
-                                "individual": "1",
-                                "doble": "1",
+                                "individual": "2",
+                                "doble": "2",
                                 "familiar": "0",
                                 "sofaCama": "1"
                             },
@@ -706,7 +706,7 @@
                         {
                             "llits": {
                                 "individual": "1",
-                                "doble": "0",
+                                "doble": "3",
                                 "familiar": "1",
                                 "sofaCama": "1"
                             },
@@ -1088,8 +1088,8 @@
                     "habitatge": [
                         {
                             "llits": {
-                                "individual": "1",
-                                "doble": "0",
+                                "individual": "3",
+                                "doble": "3",
                                 "familiar": "1",
                                 "sofaCama": "1"
                             },
