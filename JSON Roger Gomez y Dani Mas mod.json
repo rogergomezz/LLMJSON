@@ -121,7 +121,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 108.9,
+                            "preuTotal": 108.9,
                             "moneda": "€"
                         },
                         {
@@ -132,7 +132,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 114.95,
+                            "preuTotal": 114.95,
                             "moneda": "€"
                         },
                         {
@@ -143,7 +143,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 127.05,
+                            "preuTotal": 127.05,
                             "moneda": "€"
                         },
                         {
@@ -154,7 +154,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 84.7,
+                            "preuTotal": 84.7,
                             "moneda": "€"
                         },
                         {
@@ -165,7 +165,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 90.75,
+                            "preuTotal": 90.75,
                             "moneda": "€"
                         },
                         {
@@ -176,7 +176,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 102.85,
+                            "preuTotal": 102.85,
                             "moneda": "€"
                         }
                     ]
@@ -243,7 +243,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 121,
+                            "preuTotal": 121,
                             "moneda": "€"
                         },
                         {
@@ -254,7 +254,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 127.05,
+                            "preuTotal": 127.05,
                             "moneda": "€"
                         },
                         {
@@ -265,7 +265,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 139.15,
+                            "preuTotal": 139.15,
                             "moneda": "€"
                         },
                         {
@@ -276,7 +276,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 96.8,
+                            "preuTotal": 96.8,
                             "moneda": "€"
                         },
                         {
@@ -287,7 +287,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 102.85,
+                            "preuTotal": 102.85,
                             "moneda": "€"
                         },
                         {
@@ -298,7 +298,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 114.95,
+                            "preuTotal": 114.95,
                             "moneda": "€"
                         }
                     ]
@@ -366,7 +366,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 145.2,
+                            "preuTotal": 145.2,
                             "moneda": "€"
                         },
                         {
@@ -377,7 +377,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 151.25,
+                            "preuTotal": 151.25,
                             "moneda": "€"
                         },
                         {
@@ -388,7 +388,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 163.35,
+                            "preuTotal": 163.35,
                             "moneda": "€"
                         },
                         {
@@ -399,7 +399,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 121,
+                            "preuTotal": 121,
                             "moneda": "€"
                         },
                         {
@@ -410,7 +410,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 127.05,
+                            "preuTotal": 127.05,
                             "moneda": "€"
                         },
                         {
@@ -421,7 +421,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 139.15,
+                            "preuTotal": 139.15,
                             "moneda": "€"
                         }
                     ]
@@ -513,7 +513,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 217.8,
+                            "preuTotal": 217.8,
                             "moneda": "€"
                         },
                         {
@@ -524,7 +524,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 223.85,
+                            "preuTotal": 223.85,
                             "moneda": "€"
                         },
                         {
@@ -535,7 +535,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 235.95,
+                            "preuTotal": 235.95,
                             "moneda": "€"
                         },
                         {
@@ -546,7 +546,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 181.5,
+                            "preuTotal": 181.5,
                             "moneda": "€"
                         },
                         {
@@ -557,7 +557,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 187.55,
+                            "preuTotal": 187.55,
                             "moneda": "€"
                         },
                         {
@@ -568,7 +568,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 199.65,
+                            "preuTotal": 199.65,
                             "moneda": "€"
                         }
                     ]
@@ -635,7 +635,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 242,
+                            "preuTotal": 242,
                             "moneda": "€"
                         },
                         {
@@ -646,7 +646,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 248.05,
+                            "preuTotal": 248.05,
                             "moneda": "€"
                         },
                         {
@@ -657,7 +657,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 260.15,
+                            "preuTotal": 260.15,
                             "moneda": "€"
                         },
                         {
@@ -668,7 +668,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 205.7,
+                            "preuTotal": 205.7,
                             "moneda": "€"
                         },
                         {
@@ -679,7 +679,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 211.75,
+                            "preuTotal": 211.75,
                             "moneda": "€"
                         },
                         {
@@ -690,7 +690,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 223.85,
+                            "preuTotal": 223.85,
                             "moneda": "€"
                         }
                     ]
@@ -758,7 +758,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 266.2,
+                            "preuTotal": 266.2,
                             "moneda": "€"
                         },
                         {
@@ -769,7 +769,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 272.25,
+                            "preuTotal": 272.25,
                             "moneda": "€"
                         },
                         {
@@ -780,7 +780,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 284.35,
+                            "preuTotal": 284.35,
                             "moneda": "€"
                         },
                         {
@@ -791,7 +791,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 229.9,
+                            "preuTotal": 229.9,
                             "moneda": "€"
                         },
                         {
@@ -802,7 +802,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 235.95,
+                            "preuTotal": 235.95,
                             "moneda": "€"
                         },
                         {
@@ -813,7 +813,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 248.05,
+                            "preuTotal": 248.05,
                             "moneda": "€"
                         }
                     ]
@@ -897,7 +897,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 60.5,
+                            "preuTotal": 60.5,
                             "moneda": "€"
                         },
                         {
@@ -908,7 +908,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 66.55,
+                            "preuTotal": 66.55,
                             "moneda": "€"
                         },
                         {
@@ -919,7 +919,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 78.65,
+                            "preuTotal": 78.65,
                             "moneda": "€"
                         },
                         {
@@ -930,7 +930,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 48.4,
+                            "preuTotal": 48.4,
                             "moneda": "€"
                         },
                         {
@@ -941,7 +941,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 54.45,
+                            "preuTotal": 54.45,
                             "moneda": "€"
                         },
                         {
@@ -952,7 +952,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 66.55,
+                            "preuTotal": 66.55,
                             "moneda": "€"
                         }
                     ]
@@ -1018,7 +1018,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 72.6,
+                            "preuTotal": 72.6,
                             "moneda": "€"
                         },
                         {
@@ -1029,7 +1029,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 78.65,
+                            "preuTotal": 78.65,
                             "moneda": "€"
                         },
                         {
@@ -1040,7 +1040,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 90.75,
+                            "preuTotal": 90.75,
                             "moneda": "€"
                         },
                         {
@@ -1051,7 +1051,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 60.5,
+                            "preuTotal": 60.5,
                             "moneda": "€"
                         },
                         {
@@ -1062,7 +1062,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 66.55,
+                            "preuTotal": 66.55,
                             "moneda": "€"
                         },
                         {
@@ -1073,7 +1073,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 78.65,
+                            "preuTotal": 78.65,
                             "moneda": "€"
                         }
                     ]
@@ -1140,7 +1140,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 84.7,
+                            "preuTotal": 84.7,
                             "moneda": "€"
                         },
                         {
@@ -1151,7 +1151,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 90.75,
+                            "preuTotal": 90.75,
                             "moneda": "€"
                         },
                         {
@@ -1162,7 +1162,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 102.85,
+                            "preuTotal": 102.85,
                             "moneda": "€"
                         },
                         {
@@ -1173,7 +1173,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 72.6,
+                            "preuTotal": 72.6,
                             "moneda": "€"
                         },
                         {
@@ -1184,7 +1184,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 78.65,
+                            "preuTotal": 78.65,
                             "moneda": "€"
                         },
                         {
@@ -1195,7 +1195,7 @@
                             "impost": 21,
                             "impPercentatge": "%",
                             "comissio": 5,
-                            "preu total": 90.75,
+                            "preuTotal": 90.75,
                             "moneda": "€"
                         }
                     ]
