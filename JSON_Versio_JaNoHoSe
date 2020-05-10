@@ -1,0 +1,1189 @@
+{
+    "nom": "RoyalHotels",
+    "correu": "royalhotels@royalhotels.es",
+    "propietaris": [
+        {
+            "nom": "Roger",
+            "llinatge": "Gomez",
+            "dataNaixement": "1999",
+            "lloc": "Palma de Mallorca"
+        },
+        {
+            "nom": "Dani",
+            "llinatge": "Mas",
+            "dataNaixement": "2000",
+            "lloc": "Palma de Mallorca"
+        }
+    ],
+    "agregadors": [
+        {
+            "nom": "quavago",
+            "idAgregador": 1,
+            "telContacte": "971092389",
+            "comissio": 5,
+            "correuContacte": "quavago@quavagohotels.es"
+        },
+        {
+            "nom": "llibrerei",
+            "idAgregador": 2,
+            "telContacte": "971089876",
+            "comissio": 10,
+            "correuContacte": "llibrerei@llibrereihotels.es"
+        },
+        {
+            "nom": "tothotel",
+            "idAgregador": 3,
+            "telContacte": "971345345",
+            "comissio": 20,
+            "correuContacte": "tothotel@tothotelhotels.es"
+        }
+    ],
+    "hotels":
+[
+    {
+        "id": 0,
+        "nom": "Maravilla",
+        "estrelles": 4,
+        "horaEntrada": "12:00",
+        "horaSortida": "15:00",
+        "mascotes": [
+            "ca"
+        ],
+        "telefono": "656735421 ",
+        "entretenimientos": {
+            "futbol":true,
+            "spa":true,
+            "wifi":true,
+            "bar":true
+        },
+        "pensio": {
+            "totinclos":true
+        },
+        "habitacions": [
+            {
+                "idHabitacio":1,
+                "nom": "basica",
+                "altaveus": true,
+                "serveiHabitacio": false,
+                "Wi-Fi": true,
+                "caixaForta": false,
+                "llits": {
+                            "individual":1,
+                            "doble":0,
+                            "familiar":0,
+                            "sofaCama":0
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": false,
+                            "netflix": true,
+                            "HBO": false,
+                            "amazonPrime": false,
+                            "spotify": true,
+                            "youtube": true
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": false,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "mitjana",
+                            "tumbones": true,
+                            "taula": false,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": false
+                        },
+                    
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 85,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 108.9,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 90,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 114.95,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 100,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 127.05,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 65,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 84.7,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 70,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 90.75,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 80,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 102.85,
+                        "moneda": "€"
+                    }]
+                
+                            
+            },
+            {
+                "idHabitacio": 2,
+                "nom": "media",
+                "altaveus": true,
+                "serveiHabitacio": false,
+                "Wi-Fi": true,
+                "caixaForta": false,
+
+                        "llits":{
+                            "individual":1,
+                            "doble":1,
+                            "familiar": 0,
+                            "sofaCama": 0
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": true,
+                            "netflix": true,
+                            "HBO": false,
+                            "amazonPrime": false,
+                            "spotify": true,
+                            "youtube": true
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "gran",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": false
+                        },
+
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 95,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 121,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 100,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 127.05,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 110,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 139.15,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 75,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 96.8,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 80,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 102.85,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 90,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 114.95,
+                        "moneda": "€"
+                    }
+                ]
+            },
+            {
+                "idHabitacio": 3,
+                "nom": "deluxe",
+                "altaveus": true,
+                "serveiHabitacio": true,
+                "Wi-Fi": true,
+                "caixaForta": true,
+
+                        "llits": {
+                            "individual": 1,
+                            "doble": 2,
+                            "familiar": 1,
+                            "sofaCama": 1
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": true,
+                            "netflix": true,
+                            "HBO": true,
+                            "amazonPrime": true,
+                            "spotify": true,
+                            "youtube": true
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa",
+                                "alcohol"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": true
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "gran",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": true,
+                            "jacuzziExterior": false,
+                            "barbacoa": true
+                        },
+
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 115,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 145.2,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 120,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 151.25,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 130,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 163.35,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 95,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 121,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 100,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 127.05,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 110,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 139.15,
+                        "moneda": "€"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "nom": "Resort",
+        "estrelles": "5",
+        "horaEntrada": "12:00",
+        "horaSortida": "15:00",
+        "mascotes": [
+            " ca "
+        ],
+        "telefono": "656735422 ",
+        "entretenimientos": {
+            "basket":true,
+            "gimnas":true,
+            "spa":true,
+            "espectacles":true,
+            "wifi":true,
+            "bar":true,
+            "costa":true
+        },
+        "pensio": {
+            "mitjapensio":true
+    },
+    "habitacions": [
+        {
+            "idHabitacio": 1,
+            "nom": "basica",
+            "altaveus": false,
+            "serveiHabitacio": true,
+            "Wi-Fi": true,
+            "caixaForta": false,
+    
+                    "llits": {
+                        "individual": 2,
+                        "doble": 0,
+                        "familiar": 0,
+                        "sofaCama": 0
+                    },
+                    "tv": {
+                        "tdt": true,
+                        "canalsPerCable": false,
+                        "netflix": true,
+                        "HBO": true,
+                        "amazonPrime": true,
+                        "spotify": true,
+                        "youtube": true
+                    },
+                    "miniBar": {
+                        "disponibilitat": true,
+                        "tipusBegudes": [
+                            "refrescs",
+                            "sucs",
+                            "aigüa"
+                        ],
+                        "preu": 20,
+                        "moneda": "€"
+                    },
+                    "bany": {
+                        "wc": true,
+                        "banyera": false,
+                        "dutxa": true,
+                        "lavabo": true,
+                        "jacuzzi": false
+                    },
+                    "terraça": {
+                        "disponibilitat": true,
+                        "tamany": "mitjana",
+                        "tumbones": true,
+                        "taula": false,
+                        "hookah": true,
+                        "vistesMar": false,
+                        "jacuzziExterior": false,
+                        "barbacoa": false
+                    },
+                        
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 175,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 217.8,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 180,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 223.85,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 190,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 235.95,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 145,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 181.5,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 150,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 187.55,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 160,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 199.65,
+                        "moneda": "€"
+                    }
+                ]
+            },
+            {
+                "idHabitacio": 2,
+                "nom": "media",
+                "altaveus": true,
+                "serveiHabitacio": false,
+                "Wi-Fi": true,
+                "caixaForta": true,
+                
+                        "llits": {
+                            "individual": 2,
+                            "doble": 2,
+                            "familiar": 0,
+                            "sofaCama": 1
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": true,
+                            "netflix": true,
+                            "HBO": true,
+                            "amazonPrime": true,
+                            "spotify": true,
+                            "youtube": true
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "gran",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": true
+                        },
+
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 195,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 242,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 200,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 248.05,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 210,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 260.15,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 165,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 205.7,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 170,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 211.75,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 180,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 223.85,
+                        "moneda": "€"
+                    }
+                ]
+            },
+            {
+                "idHabitacio": 3,
+                "nom": "deluxe",
+                "altaveus": true,
+                "serveiHabitacio": true,
+                "Wi-Fi": true,
+                "caixaForta": true,
+
+                        "llits": {
+                            "individual": 1,
+                            "doble": 3,
+                            "familiar": 1,
+                            "sofaCama": 1
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": true,
+                            "netflix": true,
+                            "HBO": true,
+                            "amazonPrime": true,
+                            "spotify": true,
+                            "youtube": true
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa",
+                                "alcohol"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": true
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "gran",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": true,
+                            "jacuzziExterior": true,
+                            "barbacoa": true
+                        },
+
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 215,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 266.2,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 220,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 272.25,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 230,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 284.35,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 185,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 229.9,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 190,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 235.95,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 200,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 248.05,
+                        "moneda": "€"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "En Ruinas",
+        "estrelles": 2,
+        "horaEntrada": "12:00",
+        "horaSortida": "15:00",
+        "mascotes": [
+            " serp "
+        ],
+        "telefono": "656735423 ",
+        "entretenimientos": [
+            "bar"
+        ],
+        "pensio": {
+            "berenar":true
+        },
+        "habitacions": [
+            {
+                "idHabitacio": 1,
+                "nom": "basica",
+                "altaveus": false,
+                "serveiHabitacio": false,
+                "Wi-Fi": false,
+                "caixaForta": false,
+        
+                        "llits": {
+                            "individual": 1,
+                            "doble": 0,
+                            "familiar": 0,
+                            "sofaCama": 0
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": false,
+                            "netflix": false,
+                            "HBO": false,
+                            "amazonPrime": false,
+                            "spotify": false,
+                            "youtube": false
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": false,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "petita",
+                            "tumbones": false,
+                            "taula": false,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": false
+                        },
+                        
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 45,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 60.5,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 50,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 66.55,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 60,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 78.65,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 35,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 48.4,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 40,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 54.45,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 50,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 66.55,
+                        "moneda": "€"
+                    }
+                ]
+            },
+            {
+                "idHabitacio": 2,
+                "nom": "media",
+                "altaveus": false,
+                "serveiHabitacio": false,
+                "Wi-Fi": false,
+                "caixaForta": false,
+
+                        "llits": {
+                            "individual": 1,
+                            "doble": 1,
+                            "familiar": 0,
+                            "sofaCama": 0
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": false,
+                            "netflix": true,
+                            "HBO": false,
+                            "amazonPrime": false,
+                            "spotify": false,
+                            "youtube": false
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "sucs",
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "mitjana",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": false
+                        },
+                        
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 55,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 72.6,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 60,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 78.65,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 70,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 90.75,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 45,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 60.5,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 50,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 66.55,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 60,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 78.65,
+                        "moneda": "€"
+                    }
+                ]
+            },
+            {
+                "idHabitacio": 3,
+                "nom": "deluxe",
+                "altaveus": true,
+                "serveiHabitacio": false,
+                "Wi-Fi": false,
+                "caixaForta": true,
+                
+                        "llits": {
+                            "individual": 2,
+                            "doble": 2,
+                            "familiar": 1,
+                            "sofaCama": 1
+                        },
+                        "tv": {
+                            "tdt": true,
+                            "canalsPerCable": true,
+                            "netflix": true,
+                            "HBO": true,
+                            "amazonPrime": true,
+                            "spotify": false,
+                            "youtube": false
+                        },
+                        "miniBar": {
+                            "disponibilitat": true,
+                            "tipusBegudes": [
+                                "refrescs",
+                                "sucs",
+                                "aigüa"
+                            ],
+                            "preu": 20,
+                            "moneda": "€"
+                        },
+                        "bany": {
+                            "wc": true,
+                            "banyera": true,
+                            "dutxa": true,
+                            "lavabo": true,
+                            "jacuzzi": false
+                        },
+                        "terraça": {
+                            "disponibilitat": true,
+                            "tamany": "gran",
+                            "tumbones": true,
+                            "taula": true,
+                            "hookah": true,
+                            "vistesMar": false,
+                            "jacuzziExterior": false,
+                            "barbacoa": false
+                        },
+                
+                "preu": [
+                    {
+                        "id": 1,
+                        "idAgregador": 1,
+                        "temporada": "alta",
+                        "import": 65,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 84.7,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 2,
+                        "idAgregador": 2,
+                        "temporada": "alta",
+                        "import": 70,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 90.75,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 3,
+                        "idAgregador": 3,
+                        "temporada": "alta",
+                        "import": 80,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 102.85,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 4,
+                        "idAgregador": 1,
+                        "temporada": "baixa",
+                        "import": 55,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 72.6,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 5,
+                        "idAgregador": 2,
+                        "temporada": "baixa",
+                        "import": 60,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 78.65,
+                        "moneda": "€"
+                    },
+                    {
+                        "id": 6,
+                        "idAgregador": 3,
+                        "temporada": "baixa",
+                        "import": 70,
+                        "impost": 21,
+                        "impPercentatge": "%",
+                        "comissio": 5,
+                        "preuTotal": 90.75,
+                        "moneda": "€"
+                    }
+                ]
+            }
+        ]
+    }
+]
+}    
