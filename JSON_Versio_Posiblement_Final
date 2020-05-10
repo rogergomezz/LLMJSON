@@ -47,7 +47,7 @@
         "horaEntrada": "12:00",
         "horaSortida": "15:00",
         "descripcio":"L'hotel Maravilla, com bé diu el nom, es una meravella d'hotel de 4 estrelles, on podras gaudir de pistes de futbol, un bonic spa, wifi gratis i un bar on podras engatar-te cada nit per sortir de festa, tenim els preus mes económics de tota la competéncia i no tenim cap dubte que som la millor opció per les teves vacances!",
-        "imatge":"https://github.com/rogergomezz/LLMJSON/blob/master/maravillas.png",
+        "imatge":"https://raw.githubusercontent.com/rogergomezz/LLMJSON/master/maravillas.png",
         "serveiHabitacio": true,
         "mascotes": [
             "ca"
@@ -430,7 +430,7 @@
         "horaEntrada": "12:00",
         "horaSortida": "15:00",
         "descripcio":"A l'Hotel Resort trobaras tot tipus de luxes, si vols tenir la millor estància per tu o els teus som la millor opció, disponem de pistes de basket, gimnas obert a tot el public, un gran spa amb tot tipus de jacuzzis, espectacles cada nit a les 22:00, Wi-Fi gratis i molts mes avantatges com que tens la platja a tres minuts caminant des de la teva habitació, tot això sense xerrar de les habitacions amb terraça i hoockah inclosa, a que esperes?",
-        "imatge":"https://github.com/rogergomezz/LLMJSON/blob/master/resort.png",
+        "imatge":"https://raw.githubusercontent.com/rogergomezz/LLMJSON/master/resort.png",
         "serveiHabitacio": true,
         "mascotes": [
             " ca "
@@ -816,7 +816,7 @@
         "horaEntrada": "12:00",
         "horaSortida": "15:00",
         "descripcio":"a l'otel en ruinas trovaras tot tipus d luxes, els llencols es canvien kada dues setmanes, estam molt be situats pero no teniu k sortir al carré amb més de 50eur damunt x si de cas jeje, tenim un bar on les kañetes esta a 1eur, molt barato la veritat i te pegues un bon sego, oferim berenar tots els dematins xro no es recomnable ja q no tenim molta gent i a vegades el menjar esta un poc kaducat... pero be, aki vos esperem!!",
-        "imatge":"https://github.com/rogergomezz/LLMJSON/blob/master/EnRuinas.png",
+        "imatge":"https://raw.githubusercontent.com/rogergomezz/LLMJSON/master/EnRuinas.png",
         "serveiHabitacio": false,
         "mascotes": [
             " serp "
