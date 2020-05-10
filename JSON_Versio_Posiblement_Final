@@ -116,7 +116,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 85,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -127,7 +127,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 90,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -138,7 +138,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 100,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -149,7 +149,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 65,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -160,7 +160,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 70,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -171,7 +171,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 80,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -236,7 +236,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 95,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -247,7 +247,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 100,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -258,7 +258,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 110,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -269,7 +269,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 75,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -280,7 +280,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 80,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -291,7 +291,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 90,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -356,7 +356,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 115,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -367,7 +367,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 120,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -378,7 +378,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 130,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -389,7 +389,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 95,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -400,7 +400,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 100,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -411,7 +411,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 110,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -503,7 +503,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 175,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -514,7 +514,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 180,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -525,7 +525,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 190,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -536,7 +536,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 145,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -547,7 +547,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 150,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -558,7 +558,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 160,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -622,7 +622,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 195,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -633,7 +633,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 200,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -644,7 +644,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 210,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -655,7 +655,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 165,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -666,7 +666,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 170,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -677,7 +677,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 180,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -742,7 +742,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 215,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -753,7 +753,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 220,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -764,7 +764,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 230,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -775,7 +775,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 185,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -786,7 +786,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 190,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -797,7 +797,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 200,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -881,7 +881,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 45,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -892,7 +892,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 50,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -903,7 +903,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 60,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -914,7 +914,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 35,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -925,7 +925,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 40,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -936,7 +936,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 50,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -999,7 +999,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 55,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1010,7 +1010,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 60,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1021,7 +1021,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 70,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1032,7 +1032,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 45,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1043,7 +1043,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 50,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1054,7 +1054,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 60,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1118,7 +1118,7 @@
                     {
                         "id": 1,
                         "idAgregador": 1,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 65,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1129,7 +1129,7 @@
                     {
                         "id": 2,
                         "idAgregador": 2,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 70,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1140,7 +1140,7 @@
                     {
                         "id": 3,
                         "idAgregador": 3,
-                        "temporada": "alta",
+                        "tempAlta": true,
                         "import": 80,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1151,7 +1151,7 @@
                     {
                         "id": 4,
                         "idAgregador": 1,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 55,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1162,7 +1162,7 @@
                     {
                         "id": 5,
                         "idAgregador": 2,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 60,
                         "impost": 21,
                         "impPercentatge": "%",
@@ -1173,7 +1173,7 @@
                     {
                         "id": 6,
                         "idAgregador": 3,
-                        "temporada": "baixa",
+                        "tempAlta": false,
                         "import": 70,
                         "impost": 21,
                         "impPercentatge": "%",
