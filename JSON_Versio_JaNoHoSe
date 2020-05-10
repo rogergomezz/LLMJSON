@@ -819,9 +819,9 @@
             " serp "
         ],
         "telefono": "656735423 ",
-        "entretenimientos": [
-            "bar"
-        ],
+        "entretenimientos": {
+            "bar":true
+        },
         "pensio": {
             "berenar":true
         },
