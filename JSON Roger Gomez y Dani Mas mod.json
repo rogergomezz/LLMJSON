@@ -20,7 +20,7 @@
             ],
             "habitacions": [
                 {
-                    "idHabitacio": 1,
+                    "idHabitacio":1,
                     "nom": "basica",
                     "altaveus": "true",
                     "serveiHabitacio": "false",
